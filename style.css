@@ -23,11 +23,11 @@ h1 {
 h1,
 h2 {
     font-family: "Young Serif", serif;
+        font-weight:lighter;
 }
 
 h2 {
     color: hsl(14, 45%, 36%);
-    font-weight:lighter;
 }
 
 h3 {
